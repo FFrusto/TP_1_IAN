@@ -4,7 +4,6 @@ from collections import defaultdict
 from tqdm import tqdm
 from jugador import Jugador
 
-#No me acuerdo como funciona Github y estoy probando 
 
 class AmbienteDiezMil:
     
